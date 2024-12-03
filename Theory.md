@@ -1,3 +1,3 @@
-## STA THEORY
+# STA THEORY
 
-# timing path and arrival time
+### timing path and arrival time
