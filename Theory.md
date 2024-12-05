@@ -7,6 +7,6 @@
 
 ![image](https://github.com/user-attachments/assets/45733b0d-4291-4557-85db-d1b5ae26d08f)
 
-- required time: the defined system specification/constraint for the time a signal takes on particular timing path
+- required time: the defined system specification/constraint for the time a signal takes on particular timing path i.e; we need to make sure that our arrival time is the same as our required time
 
 
