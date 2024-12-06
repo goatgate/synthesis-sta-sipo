@@ -22,3 +22,5 @@
 ## Types of setup/hold timing
 
 ![image](https://github.com/user-attachments/assets/723cc927-246a-4853-9d6b-da17188a484f)
+![image](https://github.com/user-attachments/assets/f042fbd1-c046-44ac-a795-3c24522f7d13)
+
