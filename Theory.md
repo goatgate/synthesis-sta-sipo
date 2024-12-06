@@ -11,7 +11,7 @@
 
 ![image](https://github.com/user-attachments/assets/9920ee20-4b9d-4aba-826b-121943df1317)
 
-- we set constraints for the minimum and maximum time that a signal has to take
+- we set constraints for the minimum and maximum time that a signal has to take. Below we can look at an example constraint for min and max time.
 
 ![image](https://github.com/user-attachments/assets/3850579d-6845-44b8-bd15-39370c9b0038)
 
