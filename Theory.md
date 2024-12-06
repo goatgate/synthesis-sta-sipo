@@ -9,4 +9,10 @@
 
 - required time: the defined system specification/constraint for the time a signal takes on particular timing path i.e; we need to make sure that our arrival time is the same as our required time
 
+![image](https://github.com/user-attachments/assets/9920ee20-4b9d-4aba-826b-121943df1317)
 
+- we set constraints for the minimum and maximum time that a signal has to take
+
+![image](https://github.com/user-attachments/assets/3850579d-6845-44b8-bd15-39370c9b0038)
+
+![image](https://github.com/user-attachments/assets/94c3a159-5a8f-4969-b20c-e4058ea7cc5f)
