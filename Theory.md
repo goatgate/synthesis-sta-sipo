@@ -16,3 +16,5 @@
 ![image](https://github.com/user-attachments/assets/3850579d-6845-44b8-bd15-39370c9b0038)
 
 ![image](https://github.com/user-attachments/assets/94c3a159-5a8f-4969-b20c-e4058ea7cc5f)
+
+- The Min difference is called hold slack/hold timing while Max difference is called setup slack/setup timing
