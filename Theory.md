@@ -29,6 +29,7 @@
 ![image](https://github.com/user-attachments/assets/f5aa65cd-4542-4f61-9a8e-c83b2d88622f)
 
 
-
+![image](https://github.com/user-attachments/assets/a676debe-ec92-409f-927c-3e69cf26bcee)
+- Latch(time borrowing/time giving)
 
 
