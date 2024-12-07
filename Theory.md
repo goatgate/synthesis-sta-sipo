@@ -32,4 +32,9 @@
 ![image](https://github.com/user-attachments/assets/a676debe-ec92-409f-927c-3e69cf26bcee)
 - Latch(time borrowing/time giving)
 
+## Slew/transition Analysis
+classification:
+- Data slew
+- Clock slew
+![image](https://github.com/user-attachments/assets/065ea351-3095-4e3e-ba2f-c967596520f6)
 
